@@ -1,4 +1,4 @@
-# VDiscover 
+# 开源:基于机器学习的漏洞检测工具VDiscover 
 
 VDiscover is a tool designed to train a vulnerability detection predictor.
 Given a vulnerability discovery procedure and a **large** enough number of training testcases, it extracts **lightweight** features to predict which testcases are potentially vulnerable. This repository contains an improved version of a proof-of-concept used to show experimental results in our technical report (available [here](http://vdiscover.org/report.pdf)).
